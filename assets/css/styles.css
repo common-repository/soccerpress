@@ -1,0 +1,46 @@
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1.0 - FuPa
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# 1.0 - FuPa
+--------------------------------------------------------------*/
+
+.fupa_widget {
+    font-family: "Oswald", sans-serif !important;
+}
+
+.fupa_widget .content_table_std th {
+    padding: 0 !important;
+    text-align: center !important;
+}
+
+.fupa_widget .content_table_std {
+    margin: 0 !important;
+    table-layout: initial !important;
+    border: 0 !important;
+}
+
+.fupa_widget .content_table_std th,
+.fupa_widget .content_table_std td {
+    border-left: 0;
+    border-right: 0;
+}
+
+.fupa_widget .tabelle_farbe_meister {
+    background: #9C3 !important;
+}
+
+.fupa_widget .tabelle_farbe_aufsteiger_r {
+    background: #FFD632 !important;
+}
+
+.fupa_widget .tabelle_farbe_absteiger {
+    background: #fc8783 !important;
+}
+
+.fupa_widget br {
+    display: none;
+}
